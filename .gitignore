@@ -1,0 +1,9 @@
+# Ignore the SQLite database file (it's too heavy and updates dynamically)
+Database/cybersecurity_vault.db
+
+# Ignore local Python environment caches
+__pycache__/
+*.pyc
+
+# Ignore local Power BI backup files
+*.tmp
